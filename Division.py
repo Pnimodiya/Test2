@@ -1,3 +1,4 @@
+#This is my first GitHub tutorial
 #Program to check number is divisible by 5 and 11
 number = int(input("Enter a number: "))
 if (number % 5 == 0) and (number % 11 == 0):
